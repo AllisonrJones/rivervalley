@@ -1,0 +1,51 @@
+
+#header{
+    background-color:#364551;
+    height: 200px;
+}
+.navBar{
+    display:flex;
+    justify-content: space-between;
+    padding-inline: 30px;
+    position: relative;
+    margin-top: -10px;
+}
+
+ h1{
+    padding-top: 40px;
+    color:#E0EEE9;
+    font-family: 'Allura', cursive;
+    font-size: 70px;
+}
+
+#Artists{
+    padding-top:10%;
+}
+.artist{
+    background-color: #6a8f9f61;
+    width: 70%;
+    margin-left: 10%;
+    color: #ffff;
+    margin-bottom: 3%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+}
+.artist h2{
+    font-family: 'Ubuntu';
+    font-size: 30px;
+    font-weight: lighter;   
+}
+.artist h4{
+    font-family: 'Ubuntu';
+    margin-top: -20px;
+    font-size: 14px;
+    padding-left: 5px;  
+}
+
+.artist p{
+    width: 450px;
+}
+
+.artist a{
+    color:rgb(215, 235, 253);
+}

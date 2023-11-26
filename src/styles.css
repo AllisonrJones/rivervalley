@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+
+body{
+    background-color: #E0EEE9;
+    font-family: 'Ubuntu', sans-serif;
+    background-image: url('C:/Users/Allison/Desktop/RiverValley/project/src/assets/photos/logoTransparent.png');
+    background-size: 800px;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: right;
+    
+    
+}
+a{
+    text-decoration: none;
+    color:#E2CCBC;
+    font-family: 'Ubuntu', sans-serif;
+}
